@@ -142,9 +142,9 @@ I am a **Full Stack Developer** and B.Tech Information Technology student specia
 <div align="center">
   <!-- The snake animation will be generated here by GitHub Actions -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashsudhakar085-web/akashsudhakar085-web/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashsudhakar085-web/akashsudhakar085-web/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akashsudhakar085-web/akashsudhakar085-web/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
