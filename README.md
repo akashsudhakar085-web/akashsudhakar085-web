@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Akash%20Sudhakar&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=55&descAlign=50" alt="Akash Sudhakar Banner" />
 
+  <!-- Premium Animated Avatar -->
+  <a href="https://github.com/akashsudhakar085-web">
+    <img src="assets/premium-avatar.svg" alt="Akash Sudhakar Avatar" width="180" height="180" />
+  </a>
+  
+  <br/>
+
   <!-- Animated Typing Effect -->
   <a href="https://akash-protfolio.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+scalable+software+systems;Architecting+production-ready+web+applications;Full+Stack+Software+Developer+%E2%80%A2+Aspiring+AI+Engineer+%E2%80%A2+Founder+%40+Cater+Connect" alt="Typing SVG" />
@@ -15,7 +22,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+<img src="assets/header-about.svg" alt="About Me">
 
 I am a **Full Stack Developer** and B.Tech Information Technology student specializing in modern web architecture. I focus on building scalable systems, optimizing data flows, and creating pixel-perfect, highly responsive user interfaces. 
 
@@ -23,9 +30,9 @@ I am a **Full Stack Developer** and B.Tech Information Technology student specia
 - 🧠 **Learning:** AI Engineering, LLM orchestration, and advanced distributed systems.
 - 🤝 **Collaboration:** Open to discussing system design, open-source tooling, and startup architectures.
 
----
+<br/>
 
-## 💼 Experience
+<img src="assets/header-experience.svg" alt="Experience">
 
 **Full Stack Engineer (Core Team) @ Cater Connect**
 *Startup Project • Present*
@@ -33,111 +40,137 @@ I am a **Full Stack Developer** and B.Tech Information Technology student specia
 - Integrated Google Maps APIs for geospatial talent routing and proximity matching.
 - Developed the core real-time booking engine using React, TypeScript, and Supabase.
 
----
+<br/>
 
-## 🏆 Certifications & Education
+<img src="assets/header-education.svg" alt="Education">
 
 - **B.Tech in Information Technology** (Currently Pursuing)
 - *(Add your specific certifications here, e.g., AWS Certified Developer, Meta Front-End Developer, etc.)*
 
----
+<br/>
 
-## 💻 Engineering Projects
+<img src="assets/header-projects.svg" alt="Engineering Projects">
 
-<table bordercolor="#30363d">
+<table border="0" style="border: none;">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Cater Connect</h3>
-      <p align="center"><strong>Event Workforce Marketplace</strong></p>
+      <div align="center">
+        <img src="assets/thumb-cater.svg" alt="Cater Connect Thumbnail" width="100%">
+        <h3>Cater Connect</h3>
+        <p><strong>Event Workforce Marketplace</strong></p>
+      </div>
       <p>Architected the core matching engine for an event staffing startup. Features real-time state synchronization, secure auth flows, and geolocation-based routing.</p>
-      <p><em>Source: Private (Active Startup)</em></p>
-      <p align="center">
+      <div align="center">
         <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Tailwind</code>
-      </p>
-      <p align="center">
-        <a href="Cater-Connect-Showcase.md"><strong>👉 View Architecture Details</strong></a>
-      </p>
+        <br/><br/>
+        <a href="Cater-Connect-Showcase.md"><img src="https://img.shields.io/badge/Architecture-0D1117?style=for-the-badge&logo=mdbook&logoColor=58A6FF&border=58A6FF" alt="View Architecture"></a>
+        <br/><br/>
+        <em>Source: Private (Active Startup)</em>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Developer Portfolio</h3>
-      <p align="center"><strong>High-Performance Web Profile</strong></p>
+      <div align="center">
+        <img src="assets/thumb-portfolio.svg" alt="Portfolio Thumbnail" width="100%">
+        <h3>Developer Portfolio</h3>
+        <p><strong>High-Performance Web Profile</strong></p>
+      </div>
       <p>Engineered a server-side rendered portfolio utilizing static generation for sub-100ms load times. Implemented custom CSS micro-animations and a bespoke design system.</p>
-      <p align="center">
+      <div align="center">
         <code>Next.js</code> <code>TypeScript</code> <code>Framer Motion</code>
-      </p>
-      <p align="center">
-        <a href="https://akash-protfolio.vercel.app"><strong>Live Deployment</strong></a>
-      </p>
+        <br/><br/>
+        <a href="https://akash-protfolio.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=White&border=30363d" alt="Live Deployment"></a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Enterprise Task Manager</h3>
-      <p align="center"><strong>State-Synchronized Productivity</strong></p>
+      <div align="center">
+        <img src="assets/thumb-task.svg" alt="Task Manager Thumbnail" width="100%">
+        <h3>Enterprise Task Manager</h3>
+        <p><strong>State-Synchronized Productivity</strong></p>
+      </div>
       <p>Developed a full-stack Kanban board with optimistic UI updates, drag-and-drop mechanics, and a normalized PostgreSQL database schema for rapid querying.</p>
-      <p align="center">
+      <div align="center">
         <code>React</code> <code>Express</code> <code>PostgreSQL</code>
-      </p>
+        <br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=White&border=30363d" alt="GitHub Repo"></a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Automated QA Checker</h3>
-      <p align="center"><strong>Internal Validation Tooling</strong></p>
+      <div align="center">
+        <img src="assets/thumb-qa.svg" alt="QA Checker Thumbnail" width="100%">
+        <h3>Automated QA Checker</h3>
+        <p><strong>Internal Validation Tooling</strong></p>
+      </div>
       <p>Built an internal dashboard to streamline data validation pipelines. Reduced manual QA time by automating checks against predefined schemas.</p>
-      <p align="center">
+      <div align="center">
         <code>React</code> <code>Firebase</code> <code>Tailwind</code>
-      </p>
+        <br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=White&border=30363d" alt="GitHub Repo"></a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Delivery Routing Engine</h3>
-      <p align="center"><strong>Logistics Optimization</strong></p>
+      <div align="center">
+        <img src="assets/thumb-routing.svg" alt="Routing Engine Thumbnail" width="100%">
+        <h3>Delivery Routing Engine</h3>
+        <p><strong>Logistics Optimization</strong></p>
+      </div>
       <p>Implemented algorithms to calculate optimal multi-node delivery sequences, interfacing directly with external mapping APIs to minimize computational overhead.</p>
-      <p align="center">
+      <div align="center">
         <code>TypeScript</code> <code>Maps API</code>
-      </p>
+        <br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=White&border=30363d" alt="GitHub Repo"></a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">AI Report Generator</h3>
-      <p align="center"><strong>LLM Data Pipeline</strong></p>
+      <div align="center">
+        <img src="assets/thumb-ai.svg" alt="AI Report Gen Thumbnail" width="100%">
+        <h3>AI Report Generator</h3>
+        <p><strong>LLM Data Pipeline</strong></p>
+      </div>
       <p>Created a data ingestion pipeline that feeds unstructured context into an LLM to automatically compile structured, formatted business reports.</p>
-      <p align="center">
+      <div align="center">
         <code>Python</code> <code>Next.js</code> <code>OpenAI API</code>
-      </p>
+        <br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=White&border=30363d" alt="GitHub Repo"></a>
+      </div>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## ⚡ Tech Stack
+<img src="assets/header-skills.svg" alt="Tech Stack">
+<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,css,html&theme=dark" alt="Frontend Engineering" />
-  <br/>
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgres&theme=dark" alt="Backend & Databases" />
-  <br/>
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,docker,figma&theme=dark" alt="DevOps & Tooling" />
 </div>
 
----
+<br/><br/>
 
-## 📈 Engineering Analytics
+<img src="assets/header-achievements.svg" alt="Engineering Analytics">
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsudhakar085-web&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsudhakar085-web&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashsudhakar085-web&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d&hide_border=true" alt="GitHub Stats" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsudhakar085-web&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" height="195" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsudhakar085-web&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsudhakar085-web&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Top Languages" width="400" />
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <!-- The snake animation will be generated here by GitHub Actions -->
@@ -148,11 +181,15 @@ I am a **Full Stack Developer** and B.Tech Information Technology student specia
   </picture>
 </div>
 
----
+<img src="assets/footer-divider.svg" alt="Divider">
+
+<br/><br/>
 
 <div align="center">
-  <i>"Build software that creates real-world impact."</i>
+  <h3 style="font-weight: normal;"><i>"Building robust software that drives real-world impact."</i></h3>
   <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=akashsudhakar085-web&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <a href="https://github.com/akashsudhakar085-web">
+    <img src="https://komarev.com/ghpvc/?username=akashsudhakar085-web&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+  </a>
+  <br/><br/>
 </div>

@@ -1,0 +1,26 @@
+<svg width="600" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="50%" stop-color="#1F6FEB" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&amp;display=swap');
+      .title { font-family: 'Inter', sans-serif; font-size: 26px; font-weight: 700; fill: #c9d1d9; letter-spacing: 0.5px; }
+      .line {
+        stroke-dasharray: 400;
+        stroke-dashoffset: 400;
+        animation: draw 2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+      }
+      @keyframes draw {
+        to { stroke-dashoffset: 0; }
+      }
+      .glow {
+        filter: drop-shadow(0px 0px 4px rgba(88, 166, 255, 0.4));
+      }
+    </style>
+  </defs>
+  <text x="0" y="35" class="title glow">💻 Engineering Projects</text>
+  <rect x="0" y="48" width="400" height="2" fill="url(#grad)" class="line" />
+</svg>

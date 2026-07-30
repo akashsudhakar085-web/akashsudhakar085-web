@@ -1,0 +1,22 @@
+<svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad_portfolio" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8957E5" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#D2A8FF" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="line_portfolio" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8957E5" />
+      <stop offset="100%" stop-color="#D2A8FF" stop-opacity="0" />
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&amp;display=swap');
+      .title { font-family: 'Inter', sans-serif; font-size: 20px; font-weight: 700; fill: #c9d1d9; }
+      .box { rx: 8px; ry: 8px; }
+    </style>
+  </defs>
+  <rect width="400" height="150" fill="url(#grad_portfolio)" class="box" stroke="#30363d" stroke-width="1"/>
+  <rect width="400" height="2" fill="url(#line_portfolio)" class="box" />
+  <circle cx="200" cy="65" r="25" fill="none" stroke="#8957E5" stroke-width="2" opacity="0.6"/>
+  <circle cx="200" cy="65" r="15" fill="#D2A8FF" opacity="0.4"/>
+  <text x="200" y="120" class="title" text-anchor="middle">Portfolio</text>
+</svg>
