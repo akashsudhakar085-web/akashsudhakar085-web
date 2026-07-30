@@ -3,7 +3,7 @@
 
   <!-- Animated Typing Effect -->
   <a href="https://akash-protfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+software+systems;Architecting+production-ready+web+applications;Full+Stack+Engineering+%7C+AI+Integration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+software+systems;Architecting+production-ready+web+applications;Full+Stack+Software+Developer+%E2%80%A2+Aspiring+AI+Engineer+%E2%80%A2+Founder+%40+Cater+Connect" alt="Typing SVG" />
   </a>
 
   <p align="center">
